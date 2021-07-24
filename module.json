@@ -1,0 +1,16 @@
+{
+  "name": "class-exposure",
+  "title": "Class Exposure",
+  "description": "",
+  "author": "ZoltanTheDM",
+  "version": "0.1.0",
+  "esmodules": ["class-exposure.js"],
+  "styles": [],
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "system": "dnd5e",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "changelog": ""
+}
