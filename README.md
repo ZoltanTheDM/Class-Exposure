@@ -1,6 +1,6 @@
 # Class Exposure
 
-A simple project meant to be inculded in other projects. This to exposes leveling inforamtion about dnd 5e classes.
+A simple Foundry VTT module meant to be inculded in other projects. This to exposes leveling inforamtion about dnd 5e classes.
 
 Class data now availible with:
 ```javascript
