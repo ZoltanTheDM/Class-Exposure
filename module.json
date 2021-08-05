@@ -3,14 +3,14 @@
   "title": "Class Exposure",
   "description": "",
   "author": "ZoltanTheDM",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "esmodules": ["class-exposure.js"],
   "styles": [],
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion": "0.8.8",
   "system": "dnd5e",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/ZoltanTheDM/Class-Exposure/1.0.0/module.json",
+  "url": "https://github.com/ZoltanTheDM/Class-Exposure",
+  "download": "https://github.com/ZoltanTheDM/Class-Exposure/archive/1.0.0.zip",
   "changelog": ""
 }
